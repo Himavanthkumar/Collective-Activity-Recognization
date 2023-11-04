@@ -1,0 +1,6 @@
+Accuracy:87.984545
+Precision:88.088256
+Recall:89.400021
+F1-Score:0.883091
+AUC:0.875756
+Duration:1.775033
